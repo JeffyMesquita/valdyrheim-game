@@ -1,36 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛡️ Valdyrheim
 
-## Getting Started
+_Pronúncia:_ **/VAL-dir-rraim/**  
+_"O lar dos senhores-valentes"_
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📜 Prefácio da Lore
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Nas terras geladas do norte, entre os fiordes esquecidos e as montanhas cobertas de névoa, ergue-se **Valdyrheim** — um mundo onde a fé, a guerra e a estratégia moldam o destino dos clãs.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Séculos após o Ragnarok, os fragmentos dos nove mundos colidiram em uma única terra. Dele emergiram **Dróttgardrs**, feudos guiados por novos líderes determinados a restaurar a ordem. Mas as runas antigas ainda brilham nas sombras, e os deuses observam em silêncio. Aqui, cada decisão ecoa pelas valas do tempo — e apenas os mais sábios e ousados clãs alcançarão o verdadeiro poder.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Construa. Lute. Acredite. Sobreviva.**
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🏰 O Feudo: Dróttgardr
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_Pronúncia:_ **/DROT-gar-dur/**  
+_"Fortaleza do Senhor"_
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Seu **Dróttgardr** é o centro do seu poder — uma base evolutiva que cresce do barro e do gelo até os salões gloriosos dignos dos deuses. Cada construção, cada guerreiro, cada oferenda feita molda o rumo da sua saga.
 
-## Deploy on Vercel
+- **Níveis:** 1 a 15
+- **Capacidade de Trabalhadores:** Nível atual × 120
+- **Evolução:** Com XP de batalhas (ataques, defesas, ajuda a aliados)
+- **Tecnologia:** Cada nível concede pontos de desenvolvimento tecnológico
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👷 Trabalhadores: Fólksmenn
+
+_Pronúncia:_ **/FOLKS-men/**  
+_"Povo do povo"_
+
+Os **Fólksmenn** são o coração do seu Dróttgardr. Camponeses, mineradores, comerciantes e acólitos — todos respondem ao chamado do seu clã.
+
+- **Quantidade inicial:** 6
+- **Alocação dinâmica por turno**
+- **Produção por Trabalhador:**
+  - 🍞 **Eitrkorn** (Alimento): 15 unid.
+  - 🪨 **Steinarr** (Construção): 8 unid.
+  - 💎 **Gladrheim** (Comércio): 4 unid.
+  - 🔮 **Vördrblót** (Fé): 2 unid.
+
+### Custo para contratar 1 novo Fólksmenn:
+
+- 60 **Eitrkorn**
+- 8 **Gladrheim**
+
+---
+
+## 💠 Recursos Principais
+
+| Nome          | Pronúncia      | Tipo          | Descrição                                                         |
+| ------------- | -------------- | ------------- | ----------------------------------------------------------------- |
+| **Eitrkorn**  | /EI-tr-korn/   | Alimento      | Grãos sagrados cultivados com bênçãos de Freyr, essência da vida  |
+| **Steinarr**  | /STÉI-nar/     | Construção    | Fragmentos rúnicos de pedra extraídos dos ossos de Ymir           |
+| **Gladrheim** | /GLÁD-rraim/   | Comércio      | Cristais etéreos usados em trocas, tributos e feiras espirituais  |
+| **Vördrblót** | /VUR-dur-blot/ | Fé (nível 5+) | Essência dos rituais ancestrais, só colhida após erigir um Templo |
+
+---
+
+## 🧭 Progresso e Estratégia
+
+- Cada **turno** permite nova alocação dos Fólksmenn.
+- A **produção** dos recursos ocorre ao final do turno.
+- A **fé (Vördrblót)** só pode ser coletada a partir do **nível 5**, quando o **Templo** é construído.
+- Para gerar tropas é necessário construir edificações militares:
+  - **Quartel** (Infantaria) – Disponível desde o nível 1
+  - **Arquearia, Cavalaria**, etc. — desbloqueadas com o tempo
+
+---
+
+## ✍️ Próximos passos sugeridos
+
+1. 📊 Estrutura de construção (quartéis, templos, minas, etc.)
+2. ⚔️ Sistema de tropas e classes (com nomes, status e simbologias)
+3. 🧠 Tecnologias e árvore de upgrades
+4. 🧾 JSON base para banco de dados (jogador, recursos, tropas, edifícios)
+5. 🕰️ Definir tempos dos turnos e lógica de jogo (20min / 30min / 1h)
+
+---
+
+Valdyrheim o aguarda, **Jarl**.
