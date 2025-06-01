@@ -5,6 +5,60 @@ _"O lar dos senhores-valentes"_
 
 ---
 
+## 📜 O que é Valdyrheim?
+
+Valdyrheim é um jogo de estratégia baseado em turnos que se passa em um mundo de fantasia. O jogo é inspirado um antigo jogo chamado `Ryudradon`
+
+## 📜 Eras/Temporadas
+
+O jogo é dividido em eras/temporadas.
+Cada era/temporada terá seu próprio registro de rankings.
+O jogador pode ver o ranking de cada era/temporada.
+
+## 📜 Ranking
+
+O ranking é uma lista de jogadores ordenada pela quantidade de recursos que eles possuem.
+O jogador pode ver o ranking de cada era/temporada.
+
+## 📜 Jogadores
+
+O jogador pode criar uma conta no jogo.
+O jogador pode ver o ranking de cada era/temporada.
+Tem a possibilidade de ter funções extras dentro do jogo ao se tornar um `Jarl`(líder do clã)[Premium]
+
+## 📜 O que é um turno?
+
+Um turno é um período de tempo que o jogo avança. O jogo é jogado em turnos de 10 minutos(por exemplo).
+Durante esse período, o jogador pode fazer ações como:
+
+- Construir edificações
+- Treinar tropas
+- Produzir recursos
+  - 🍞 **Eitrkorn** (Alimento): 15 unid.
+  - 🪨 **Steinarr** (Construção): 8 unid.
+  - 💎 **Gladrheim** (Comércio): 4 unid.
+  - 🔮 **Vördrblót** (Fé): 2 unid.
+  - 💰 o recurso é produzido de acordo com a quantidade de trabalhadores que o jogador tem atrelado a eles.
+- Lutar em batalhas
+  - 💰 o jogador pode lutar em batalhas para ganhar recursos.
+
+## 📜 O que é um trabalhador?
+
+Um trabalhador é um ser que pode ser contratado para produzir recursos.
+O jogador pode contratar trabalhadores de acordo com a quantidade de recursos que ele tem.
+
+## 📜 O que é um edifício?
+
+Um edifício é uma estrutura que pode ser construída para produzir recursos, treinar tropas, etc.
+O jogador pode construir edifícios de acordo com a quantidade de recursos que ele tem.
+
+## 📜 O que é uma tropa?
+
+Uma tropa é um grupo de trabalhadores que podem ser treinados para lutar em batalhas.
+O jogador pode treinar tropas de acordo com a quantidade de recursos que ele tem.
+
+## 📜
+
 ## 📜 Prefácio da Lore
 
 Nas terras geladas do norte, entre os fiordes esquecidos e as montanhas cobertas de névoa, ergue-se **Valdyrheim** — um mundo onde a fé, a guerra e a estratégia moldam o destino dos clãs.
