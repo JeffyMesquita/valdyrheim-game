@@ -176,6 +176,14 @@ examinar contagem conjunta antes de decidir fórmula. Nenhum peso ou resultado d
 **A — Eras e reconhecimento:** medalhas de colocação e ranking histórico persistentes; 1º/2º/3º
 citados para premiação, sem regra formal. Distintivo premium diferente é lembrança do original.
 
+**A — Nova lembrança humana:** original tinha ranking individual e ranking por clãs. Ataques
+coordenados contra um integrante buscavam reduzir fortemente sua posição e, por consequência,
+derrubar o clã na classificação coletiva. Essa lembrança evidencia interdependência entre resultados
+individual e coletivo e incentivo à defesa de aliados; é possível direção para Valdyrheim, sem
+aprovar fórmula coletiva, quantidade de membros, transferências ou regras de mudança de clã.
+Permanecem abertos cálculo da pontuação coletiva, entrada/saída de membros, participação por era
+e recuperação sob ataques repetidos. Não assumir soma ou média das pontuações individuais.
+
 ## Combate e defesa
 
 **A — Nova intenção humana:** defesa bem-sucedida preserva recursos; resultado relativamente parelho
@@ -191,7 +199,8 @@ XP defensiva proporcional à contribuição, inclusive de aliados, é proposta a
 histórica de recompensar defesa e ajuda, sem taxas definidas. Automação por objetivo deve considerar
 saldo e trabalhadores após perdas; política de recálculo permanece aberta.
 
-**A — Nova lembrança do original:** clãs calculavam ataques para chegar ao feudo adversário no turno
+**A — Nova lembrança do original, chamada de “counter” pelo usuário:** clãs calculavam ataques
+para chegar ao feudo adversário no turno
 em que retornavam as tropas enviadas por ele. Assim, adversário não conseguia retirar/reenviar tropas
 a tempo de evitar combate. Referência lembrada de 18 turnos de ida e 18 de volta continua sem fixar
 parâmetro do Valdyrheim. Trata-se de chegada ao feudo no retorno, sem interceptação no caminho;
@@ -282,7 +291,7 @@ estruturas no banco remoto, que não foi consultado.
 | Resets/persistência | A confirma recursos/tropas reiniciados e ranking/medalhas mantidos | XP, nível, trabalhadores, feudo, edifícios, classe, clã e participação |
 | Combate e clãs | Intenção de cooperação; defesa preserva recursos e concede XP; derrotas podem perder recursos/trabalhadores; 5/10 membros em H indefinidos | Critérios de resultado, limites/perdas/recuperação, saque, destino dos trabalhadores, chegada, ajuda e limite social |
 | Classes | Bônus históricos sem testes; Dómvarr realocação descartada | Nomes finais, tropas exclusivas, generalista e efeitos mensuráveis |
-| Ranking | Dimensões desejadas conhecidas, pesos desconhecidos | Valoração, fórmula pública, dupla contagem e desempates |
+| Ranking | Dimensões desejadas conhecidas, pesos desconhecidos; A lembra rankings individual e por clãs no original | Valoração, fórmula pública individual/coletiva, dupla contagem, desempates, entrada/saída e participação por era |
 | Fé/tecnologia | Desbloqueios recuperados, utilidade e árvore abertas | Benefício jogável, custo e prioridade no primeiro ciclo |
 | Premium/premiação | Jarl no README; H exemplifica premium por cinco eras; A lembra delegação/distintivo | Produto, duração, acesso, títulos, eventual receita e regras de prêmios |
 | Automação por objetivo | A propõe várias automações na primeira era e possível premium nas seguintes; exemplo de realocação para construção/tropas | Plano versus otimização, algoritmo, conclusão/cancelamento, conflitos de gastos e impacto competitivo; cobrança aberta |
