@@ -191,6 +191,17 @@ XP defensiva proporcional à contribuição, inclusive de aliados, é proposta a
 histórica de recompensar defesa e ajuda, sem taxas definidas. Automação por objetivo deve considerar
 saldo e trabalhadores após perdas; política de recálculo permanece aberta.
 
+**A — Nova lembrança do original:** clãs calculavam ataques para chegar ao feudo adversário no turno
+em que retornavam as tropas enviadas por ele. Assim, adversário não conseguia retirar/reenviar tropas
+a tempo de evitar combate. Referência lembrada de 18 turnos de ida e 18 de volta continua sem fixar
+parâmetro do Valdyrheim. Trata-se de chegada ao feudo no retorno, sem interceptação no caminho;
+não é mecânica aprovada para o novo jogo.
+
+**P — Questão temporal aberta:** definir ordenação na virada entre retornos, chegadas/combates e
+novas partidas; quem vê informações de retorno; cancelamento/retirada e janelas de ordens.
+Regra temporal clara e determinística pode favorecer planejamento por turnos e evitar resultado
+dependente de rapidez de clique. A ordem concreta de resolução ainda precisa ser discutida.
+
 ## Modelagem e rastreabilidade
 
 **H09/H17 — Intenção humana:** nomes de colunas em inglês; PostgreSQL no Supabase; Next.js para
