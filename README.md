@@ -3,6 +3,14 @@
 _Pronúncia:_ **/VAL-dir-rraim/**  
 _"O lar dos senhores-valentes"_
 
+## Base para discussão
+
+Consulte [DESIGN.md](DESIGN.md) para propósito, regras recuperadas, classes propostas, ranking,
+estado real do código e decisões pendentes. Consolidação revisada em 04/10/2026, com fontes e
+cobertura da conversa histórica. O conteúdo abaixo preserva o desenho inicial; valores divergentes
+e sugestões não representam automaticamente regras aprovadas ou mecânicas implementadas.
+[TABELAS.md](TABELAS.md) descreve modelagem conceitual, sem comprovar o banco remoto.
+
 ---
 
 ## 📜 O que é Valdyrheim?
